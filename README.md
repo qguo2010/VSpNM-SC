@@ -1,1 +1,1 @@
-Demo for efficient subspace clustering
+Demo code for efficient subspace clustering
